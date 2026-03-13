@@ -1,7 +1,6 @@
-# Hello 👋 I'm Pramod Tidke
 <div align="center">
 
-# Pramod Tidke
+# Hello 👋 I'm Pramod Tidke
 
 ### DevOps Engineer | Cloud & Automation Enthusiast
 
