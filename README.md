@@ -110,15 +110,19 @@ https://github.com/pramodtidke/SecureFlow-CI
 
 ---
 
-# 🌐 Connect With Me
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/pramod-tidke)
+[![Website](https://img.shields.io/badge/Website-pramodtidke.in-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pramodtidke.in)
 
-[GitHub](https://github.com/pramodtidke)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pramod-tidke)
 
-Email: pramodtidkework@gmail.com
+[![GitHub](https://img.shields.io/badge/GitHub-pramodtidke-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pramodtidke)
+
+[![Email](https://img.shields.io/badge/Email-pramodtidkework@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pramodtidkework@gmail.com)
 
 </div>
 
@@ -126,6 +130,8 @@ Email: pramodtidkework@gmail.com
 
 <div align="center">
 
-### ⚡ "Automating infrastructure and building reliable systems"
+💡 **"Automating infrastructure and building reliable systems"**
+
+![Profile Views](https://komarev.com/ghpvc/?username=pramodtidke&color=brightgreen&style=for-the-badge)
 
 </div>
