@@ -112,19 +112,31 @@ https://github.com/pramodtidke/SecureFlow-CI
 
 ---
 
-## 🌐 Connect With Me
+---
+
+# 🌐 Connect With Me
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-pramodtidke.in-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pramodtidke.in)
+<a href="https://pramodtidke.in" target="_blank">
+<img src="https://img.shields.io/badge/Website-pramodtidke.in-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pramod-tidke)
+<a href="https://www.linkedin.com/in/pramod-tidke" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-pramodtidke-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pramodtidke)
+<a href="https://github.com/pramodtidke" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-pramodtidke-black?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-[![Email](https://img.shields.io/badge/Email-pramodtidkework@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pramodtidkework@gmail.com)
+<a href="mailto:pramodtidkework@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Email-pramodtidkework@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
+
+---
 
 ---
 
