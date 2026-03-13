@@ -1,4 +1,9 @@
-#         Hello 👋 I'm Pramod Tidke
+# Hello 👋 I'm Pramod Tidke
+<div align="center">
+
+# Pramod Tidke
+
+### DevOps Engineer | Cloud & Automation Enthusiast
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=DevOps+Engineer;Cloud+%26+Automation+Enthusiast;CI%2FCD+Pipeline+Builder;Learning+Everyday)](https://git.io/typing-svg)
 
